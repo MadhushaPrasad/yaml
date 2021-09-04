@@ -1,1 +1,10 @@
 #let's write some yaml  -> Thi is the comment How to write by using yaml language
+
+#key and Data Types --Keys have their own values-- --{Integer,float,string,boolean,null}--
+# key | value
+x: 25 #x is the key and 25 is the value
+myInteger: 12
+my_Key_String: "Madhusha"
+my float: 10.5
+myBoolean: true
+nulValue: null
