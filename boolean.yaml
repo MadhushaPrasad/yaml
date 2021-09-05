@@ -1,0 +1,4 @@
+# Boolean values can be written in different ways:
+published01: false
+published02: False
+published03: FALSE
