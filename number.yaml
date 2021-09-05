@@ -6,3 +6,10 @@ price: 15.99
 
 # Scientific notation:
 population: 2.89e+6
+
+# The above code will translate to JSON as:
+# {
+#     "age": 29,
+#     "price": 15.99,
+#     "population": 2890000
+# }
