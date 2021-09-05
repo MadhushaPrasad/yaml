@@ -1,0 +1,37 @@
+# The author data:
+author: &gOrwell 
+    name: George
+    last-name: Orwell
+
+# Some books:
+books: 
+    - 1984:
+        author: *gOrwell 
+    - animal-farm:
+        author: *gOrwell
+
+
+# {
+#    "author": {
+#        "name": "George",
+#        "last-name": "Orwell"
+#    },
+#    "books": [
+#        {
+#            "1984": {
+#                "author": {
+#                    "name": "George",
+#                    "last-name": "Orwell"
+#                }
+#            }
+#        },
+#        {
+#            "animal-farm": {
+#                "author": {
+#                    "name": "George",
+#                    "last-name": "Orwell"
+#                }
+#            }
+#        }
+#    ]
+# }
