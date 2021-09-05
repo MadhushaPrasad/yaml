@@ -9,3 +9,10 @@ execute: |
     npm ci
     npm build
     npm test
+
+# The above code will translate to JSON as:
+# {
+#     "title": "Introduction to YAML",
+#     "title-w-quotes": "Introduction to YAML",
+#     "execute": "npm ci\nnpm build\nnpm test\n"
+# }
