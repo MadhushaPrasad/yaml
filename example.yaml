@@ -38,8 +38,8 @@ cricket_players02 :
 # in other languages -> ks = ['madhuhsha' : 65 , 'binara' : 68 , 'kavindu' : 88]
 ks :
   - madhuhsha : 65 
-  - binara : 68 
-  - kavindu : 88
+  - prasad : 68 
+  - silva : 88
 
   # Here any values may also be a list like,
 

@@ -1,0 +1,11 @@
+# Strings don't require quotes:
+title: Introduction to YAML
+
+# But you can still use them:
+title-w-quotes: 'Introduction to YAML'
+
+# Multiline strings start with |
+execute: |
+    npm ci
+    npm build
+    npm test
