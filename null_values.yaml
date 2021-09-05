@@ -1,0 +1,7 @@
+# Null can be represented by simply not setting a value:
+null-value:
+
+# Or more explicitly:
+null-value1: null
+null-value2: NULL
+null-value3: Null
