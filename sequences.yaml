@@ -1,0 +1,17 @@
+# A list of numbers using hyphens:
+numbers:
+    - one
+    - two
+    - three
+
+# The inline version:
+numbers1: [ one, two, three ]
+
+# The above code will translate to JSON as:
+# {
+#      "numbers": [
+#         "one",
+#         "two",
+#         "three"
+#       ]
+# }
